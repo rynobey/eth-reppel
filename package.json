@@ -1,0 +1,24 @@
+{
+  "name": "eth-reppel",
+  "version": "0.0.1",
+  "description": "A JSRE REPL via RPC for Ethereum clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rynobey/eth-reppel.git"
+  },
+  "author": "Ryno Beyers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rynobey/eth-reppel/issues"
+  },
+  "homepage": "https://github.com/rynobey/eth-reppel#readme",
+  "dependencies": {
+    "wait-port": "^0.2.2",
+    "web3": "0.20.6",
+    "web3admin": "^0.4.4"
+  }
+}
